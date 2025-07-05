@@ -1,0 +1,38 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider gibi IDE'lerin oluşturduğu dosyalar
+.vs/
+.vscode/
+*.sln
+*.suo
+*.csproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Mac'e özel dosyalar
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build raporları
+build.report
+*-build.yml
+
+# Crash raporları
+*.crash
+
+# Windows'a özel dosyalar
+[Tt]humbs.db
