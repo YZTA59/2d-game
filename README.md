@@ -59,12 +59,6 @@
 Proje backlog takibi için notion kullanılmaktadır.
 ###  Sprint 1 Notion Görseli  
 <img src="Assets/notion.jpg" width="650">
----
-
-##  Screenshotlar
-
-
-
 
 ---
 
