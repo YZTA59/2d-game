@@ -69,7 +69,14 @@ Proje backlog takibi için notion kullanılmaktadır.
 - **Geribildirim**:  
   - Oyuncu fiziği optimize edilmeli  
   - Harita tasarımı için renk paleti netleştirildi
+
 ---
+
+##  Sprint-1 Ürün Durumu Ekran Görüntüsü  
+<img src="Assets/sprint1.jpg" width="650">
+
+---
+
 ##  Sprint 1 Özeti  
 | Kategori               | Açıklama                                      |
 |------------------------|-----------------------------------------------|
