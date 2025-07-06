@@ -1,3 +1,4 @@
+
 # 🎮 Top Drop Arena
 
 ##  Takım İsmi  
@@ -16,24 +17,33 @@
 ##  Hedef Kitle  
 - Rekabetçi oyuncular  
 - Arkadaşlarıyla kısa süreli oyunlar oynamayı sevenler  
-- 10 yaş ve üzeri oyuncular  
+- 7 yaş ve üzeri oyuncular  
 - Casual & arena dövüş türünü sevenler  
 
 ---
 
 #  Sprint 1
 
-- **Tahmin Edilen Tamamlanacak Puanı**:
--10 puan
-- **Puan tamamlama mantığı**:
-Toplamda 35 puanlık backlog planlandı. Sprint 1'de temel sistemlerin oturması hedeflenerek **10 puanlık** iş belirlenmiştir. Bu sprintte, temel oyun mekaniği, arena modellemesi ve oyuncu hareketi gibi yapılar planlanmıştır.
+- **Sprint puan tamamlama mantığı**:  
+  Proje boyunca tamamlanması gereken toplam backlog puanı şu an için **85 puan** olarak belirlenmiştir.  
+  ##  Backlog Kalemleri ve Puanları
+	| İş Kalemi                              | Puan |
+	|----------------------------------------|------|
+	| Genel oynanış ve mekanik oluşturma     | 10   |
+	| Karakter çizimleri                     | 10   |
+	| Çevre çizimleri                        | 10   |
+	| Yetenek mekanikleri tasarımı           | 15   |
+	| Yetenek mekaniklerini kodlama          | 20   |
+	| Arena oluşturmak                       | 20   |
+	| **Toplam**                              | **85** |
+ 
+  İlk sprintte tamamlanması beklenen işlerin toplamı, grup üyelerinin müsaitlik durumlarından ötürü **10 puan** olup bu hedef başarıyla gerçekleştirilmiştir.
 
 ---
 
 ## Sprint 1 Süreci  
 - Arena mekanikleri planlandı:  
   - Zincirli topun hareketi  
-  - Çarpışma sonucu oyuncuyu savurma  
   - Platform sistemleri ve çerçeve mantığı  
 - Oyuncu hareketi (yatay/dikey) ve fizik sistemine ilk geçiş bu sprintte hedeflendi.
 
@@ -46,59 +56,40 @@ Toplamda 35 puanlık backlog planlandı. Sprint 1'de temel sistemlerin oturması
 ---
 
 ##  Sprint Board Updates  
-Sprint boyunca kullanılan Trello Board:  
-
-###  Sprint 1 Trello Görseli  
-
-
+Proje backlog takibi için notion kullanılmaktadır.
+###  Sprint 1 Notion Görseli  
+<img src="Assets/notion.jpg" width="650">
 ---
 
 ##  Screenshotlar
 
-###  Oyuncu Temel Modeli  
 
-
-###  Arena Taslağı  
-
-
-###  Mekanik Denemeleri 
 
 
 ---
 
 ##  Sprint Review  
-- Arena ve çevresel etkileşimler başarıyla test edildi.  
+- Arena ve çevre taslağı başarıyla oluşturuldu.  
 - Oyuncu çarpışma sistemi entegre edildi.  
 - Spawn noktaları ve hareketli platformlar taslak olarak tamamlandı.  
-- Kamera açısı ve kontroller ilk sürümde denendi.  
-- **Katılımcılar**: 
 - **Geribildirim**:  
-  - Kamera takibi geliştirilmeli  
   - Oyuncu fiziği optimize edilmeli  
   - Harita tasarımı için renk paleti netleştirildi
-
 ---
-
-##  Sprint Retrospective   
-
-
----
-
 ##  Sprint 1 Özeti  
 | Kategori               | Açıklama                                      |
 |------------------------|-----------------------------------------------|
 | **Sprint Puanı**       | 10 / 10                                       |
-| **Tamamlanan İş**      | Arena mekaniği, top çarpışması, spawn sistemi |
-| **Geliştirilen Özellik** | Karakter hareketi, fizik tepkimesi             |
+| **Tamamlanan İş**      | Arena taslağı, çevresel etkenler |
+| **Geliştirilen Özellik** | Karakter mekaniği             |
 | **Sorunlar**           | Tasarım sürecinde zamanlama                   |
 | **Başarı Durumu**      | Sprint hedefi %100 tamamlandı                 |
 
 ---
 
 ##  Bir Sonraki Sprint  
-- Online sistem altyapısının kurulumu  
 - Oyun içi UI çalışmaları  
-- Yeni harita taslağı  
+- Yeni harita (çevre) taslağı  
 - Karakter animasyonlarının geliştirilmesi
 
 ---
