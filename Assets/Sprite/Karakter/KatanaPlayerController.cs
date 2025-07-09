@@ -10,14 +10,12 @@ public class KatanaPlayerController : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private bool isGrounded = true;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         float move = Input.GetAxisRaw("Horizontal");
@@ -53,15 +51,25 @@ public class KatanaPlayerController : MonoBehaviour
             else
                 animator.SetTrigger("isAttacking");
         }
+
+        // Düşme animasyonu kontrolü
+        if (!isGrounded && rb.linearVelocity.y < 0)
+        {
+            animator.SetBool("isFalling", true);
+        }
+        else
+        {
+            animator.SetBool("isFalling", false);
+        }
     }
 
-    // Yere değdiğini kontrol et (örnek)
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
             animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
         }
     }
 }
