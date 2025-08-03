@@ -1,7 +1,7 @@
 
 
 ## Jüriye Not
-Bird 56’da kullanılan grafik ve modeller, zaman kısıtı nedeniyle hazır asset’ler üzerinden seçilmiştir.
+Bird 59’da kullanılan grafik ve modeller, zaman kısıtı nedeniyle hazır asset’ler üzerinden seçilmiştir.
 
 Merhaba ben Muhammed Zübeyir Çağlar grubumuzda aktiflik sorunu olduğundan dolayı, maalesef böyle bir yönteme başvurdum. Başlarda 3 kişi, "top oyunu" dediğimiz, party öğeleri multiplayer olan bir oyun geliştirecektik. Ancak ekibin sorumsuzluğu yüzünden tek başıma kaldım. Tüm yük omuzlarıma bindi. Büyük hedeflerle, umutlarla başladığım bootcamp süreci benim için hayal kırıklığı oldu, şevkim kırıldı.
 
@@ -16,13 +16,13 @@ Sprint Notları: Belli bir sprint planı asla olmadı ekibim yüzünden. Ve bend
 
 https://drive.google.com/drive/folders/1MVvhnZuQV970Q3aSJrTq_ceTwFCPQ-EQ?usp=sharing
 
-## u56-Bootcamp2025Projesi
-Bu GitHub deposu, Oyun ve Uygulama Akademisi kapsamında yürütülen yoğun tempolu sürecin bir ürünü olan u56-Bootcamp takımımız tarafından hazırlanmıştır. Unity oyun motoru kullanarak geliştirdiğimiz bu proje, akademi süresince kazandığımız teorik bilgileri pratiğe dönüştürme ve gerçek bir oyun geliştirme sürecini deneyimleme fırsatı sundu.
+## u59-Bootcamp2025Projesi
+Bu GitHub deposu, Oyun ve Uygulama Akademisi kapsamında yürütülen yoğun tempolu sürecin bir ürünü olan u59-Bootcamp takımımız tarafından hazırlanmıştır. Unity oyun motoru kullanarak geliştirdiğimiz bu proje, akademi süresince kazandığımız teorik bilgileri pratiğe dönüştürme ve gerçek bir oyun geliştirme sürecini deneyimleme fırsatı sundu.
 
 Unity’nin sağladığı araçlarla oyun mekaniklerini oluşturduk, grafikleri entegre ettik ve kodlama becerilerimizi pekiştirdik. Bu depo, hem bireysel gelişimimizi hem de ekip halinde ulaştığımız hedefleri ortaya koyan bir çalışma niteliği taşımaktadır.
 
 ## Ürün Açıklaması
-Bird 56, 2025 Bootcamp sürecinde takım olarak mezuniyet hedefiyle geliştirdiğimiz bir 2D platform oyunudur. Oyunumuz, "Flappy Bird" temasına dayansa da yalnızca bir klon değil; tamamlanmış bir ürün ortaya koyma amacı taşıyan, kısa sürede oynanabilir ve eğlenceli bir projedir.
+Bird 59, 2025 Bootcamp sürecinde takım olarak mezuniyet hedefiyle geliştirdiğimiz bir 2D platform oyunudur. Oyunumuz, "Flappy Bird" temasına dayansa da yalnızca bir klon değil; tamamlanmış bir ürün ortaya koyma amacı taşıyan, kısa sürede oynanabilir ve eğlenceli bir projedir.
 
 Oyunun amacı, ana karakter olan kuş ile engellerin arasından geçerek mümkün olan en yüksek skoru elde etmektir. Oyuncu, “Replay” butonuyla oyuna sıfırdan başlayarak dilediği kadar yeniden deneme hakkına sahiptir.
 
