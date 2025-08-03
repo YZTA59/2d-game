@@ -17,7 +17,7 @@ Sprint Notları: Belli bir sprint planı asla olmadı ekibim yüzünden. Ve bend
 https://drive.google.com/drive/folders/1MVvhnZuQV970Q3aSJrTq_ceTwFCPQ-EQ?usp=sharing
 
 ## u56-Bootcamp2025Projesi
-Bu GitHub deposu, Oyun ve Uygulama Akademisi kapsamında yürütülen yoğun tempolu sürecin bir ürünü olan u97-Bootcamp takımımız tarafından hazırlanmıştır. Unity oyun motoru kullanarak geliştirdiğimiz bu proje, akademi süresince kazandığımız teorik bilgileri pratiğe dönüştürme ve ekip olarak gerçek bir oyun geliştirme sürecini deneyimleme fırsatı sundu.
+Bu GitHub deposu, Oyun ve Uygulama Akademisi kapsamında yürütülen yoğun tempolu sürecin bir ürünü olan u56-Bootcamp takımımız tarafından hazırlanmıştır. Unity oyun motoru kullanarak geliştirdiğimiz bu proje, akademi süresince kazandığımız teorik bilgileri pratiğe dönüştürme ve gerçek bir oyun geliştirme sürecini deneyimleme fırsatı sundu.
 
 Unity’nin sağladığı araçlarla oyun mekaniklerini oluşturduk, grafikleri entegre ettik ve kodlama becerilerimizi pekiştirdik. Bu depo, hem bireysel gelişimimizi hem de ekip halinde ulaştığımız hedefleri ortaya koyan bir çalışma niteliği taşımaktadır.
 
